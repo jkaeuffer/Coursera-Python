@@ -85,5 +85,3 @@ frame.set_draw_handler(draw)
 new_game()
 frame.start()
 
-
-# Always remember to review the grading rubric
